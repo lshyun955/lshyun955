@@ -1,5 +1,8 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Node.js-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+💪 Skills
+Platforms & Languages
+
+<img src="https://img.shields.io/badge/Node.js-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <!--
 **lshyun955/lshyun955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
