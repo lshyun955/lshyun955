@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flshyun955&count_bg=%23429800&title_bg=%23ACE972&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lshyn955)](https://solved.ac/lshyn955)
-
 ![Suhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lshyun955&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lshyun955&theme=radical)](https://github.com/lshyun955/github-readme-stats)
 # 💪 Skills
