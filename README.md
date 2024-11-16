@@ -21,7 +21,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-4BB749.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
 # 📬: Contacts
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-white?&style=flat-square&logo=velog&link=https://velog.io/@lshyun955)](https://velog.io/@lshyun955)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lshyun955@gmail.com)](mailto:lshyun955@gmail.com)
 <!--
 **lshyun955/lshyun955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
